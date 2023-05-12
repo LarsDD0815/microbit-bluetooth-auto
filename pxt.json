@@ -1,0 +1,26 @@
+{
+    "name": "Microbit Bluetooth Auto",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "pxt-mecanum-robot-V2_DE": "github:LarsDD0815/mecanum_robot_v2_de#04816649ed0afbd89eda7583f36c8688fffc5de0",
+        "bluetooth": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "5.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
